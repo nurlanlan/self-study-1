@@ -7,13 +7,13 @@ import org.springframework.stereotype.Component;
 public class Dev {
 
     @Autowired
-    private Computer computer;
+    private Computer desktop;
 
 
 
     public void build(){
 
-        computer.compile();
+        desktop.compile();
 
         System.out.println("Building Dev");
     }
