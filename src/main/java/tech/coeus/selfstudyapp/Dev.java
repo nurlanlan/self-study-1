@@ -8,10 +8,11 @@ public class Dev {
 
     @Autowired
     private Laptop laptop;
-
     public void build(){
+
+        laptop.compile();
+
         System.out.println("Building Dev");
     }
-    compile();
 
 }
