@@ -6,17 +6,14 @@ import org.springframework.stereotype.Component;
 @Component
 public class Dev {
 
-//    @Autowired
-    private Laptop laptop;
+    @Autowired
+    private Computer computer;
 
-    public Dev(Laptop laptop){
-        this.laptop = laptop;
-    }
 
 
     public void build(){
 
-        laptop.compile();
+        computer.compile();
 
         System.out.println("Building Dev");
     }
