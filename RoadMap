@@ -3,12 +3,12 @@ PART 1 - SPRING/SECURITY/PROJECT
 
 
 20.01.2025
- #8 Spring without boot
- #9 Spring XML config
- #10 Constructor and Setter injection
- #11 Autowiring in Spring
- #12 Need for Spring Boot MVC
- #13 Spring Boot Web
+ #8 Spring without boot                 DONE
+ #9 Spring XML config                   DONE
+ #10 Constructor and Setter injection   DONE
+ #11 Autowiring in Spring               DONE
+ #12 Need for Spring Boot MVC           DONE
+ #13 Spring Boot Web                    DONE
 
 21.01.2025
  !5 have to be done
