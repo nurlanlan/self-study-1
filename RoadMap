@@ -22,7 +22,11 @@ PART 1 - SPRING/SECURITY/PROJECT
  #18 Spring Data JPA and H2 setup         DONE
  #19 Spring Data jpa with JpaRepository   DONE
 
-23.01.2025
+25.01.2025
+ !5 have to be done
+
+
+26.01.2025
  #20 Skip (-)
  #21 Project with Spring
  #22 Project with Spring Part2
@@ -31,28 +35,28 @@ PART 1 - SPRING/SECURITY/PROJECT
  #25 Image adding handle
  #26 Fetching Image
 
-24.01.2025
+27.01.2025
  #27 Update and Delete
  #28 Search Feature
  #29 Spring Security | Getting started
  #30 SS - Custom Login
 
-25.01.2025
- !5 have to be done
 
-26.01.2025
+28.01.2025
  #31 SS - CSRF token
  #32 SS - Custom Configuration
  #33 SS - Verify User from Database
 
-27.01.2025
+29.01.2025
  #34 SS - Password Encoder
  #35 What is JWT
  #36 SS - Setup for JWT
  #37 SS - Generation JWT token
  #38 SS - Validating JWT token
 
-28.01.2025
+
+
+31.01.2025
  #39 - SS - Login using oAuth2
  ## End Session , OverAll review
  ## Code Project zero to hero
