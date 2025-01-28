@@ -17,5 +17,4 @@ public class Dev {
 
         System.out.println("Building Dev");
     }
- System.out.println ("INside of this box will be shown a neew feature dispplayed by  Coeus Tech MMC)
 }
